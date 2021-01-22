@@ -11,4 +11,4 @@ Install Pygame:
 https://www.pygame.org/wiki/GettingStarted
 
 ## How to Play
-`arrow keys``w/a/s/d`: move player
+`arrow keys` `w/a/s/d`: move player
