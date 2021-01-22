@@ -16,6 +16,6 @@
   </p>
 </p>
 
-(./Sprite(Neutral).PNG
+(Sprite(Neutral).PNG
 # Frogger
 > 2D Endless Directional Platformer
