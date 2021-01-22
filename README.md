@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Sprite](Sprite (Neutral).png)
+![Sprite](https://github.com/CheesyPudding/Frogger-Pygame/blob/main/Sprite%20(Neutral).png)
 
 # Frogger
 > 2D Endless Directional Platformer
