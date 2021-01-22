@@ -16,7 +16,7 @@
   </p>
 </p>
 
-(Sprite (Neutral).png)
+(/Sprite (Neutral).png)
 
 # Frogger
 > 2D Endless Directional Platformer
