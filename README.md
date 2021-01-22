@@ -1,7 +1,7 @@
 # Frogger
 > 2D Endless Platformer
 
-<img src="https://github.com/CheesyPudding/Frogger-Pygame/blob/main/preview.PNG" width="40%">
+<img src="https://github.com/CheesyPudding/Frogger-Pygame/blob/main/preview.PNG" width="80%">
 
 Try to stay within the screen as long as possible by staying on the constantly moving platforms. Built using Python and Pygame. 
 
